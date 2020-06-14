@@ -5,4 +5,5 @@ permalink: /dnz/music/
 sidebar:
   nav: "dnz-menu"
 ---
-
+День захисту дітей
+<iframe src="https://drive.google.com/file/d/14iL_K_RRIETWn016cWv-Een6RnzhT8Qb/preview" width="640" height="480"></iframe>
