@@ -10,3 +10,7 @@ sidebar:
 Заклад дошкільної освіти НВК №125
 працюватиме з 01.06.2020р в карантинному режимі
 <iframe src="https://drive.google.com/file/d/1DeHjBXC3M_erQ6J7GayN_lBAH_16p-qJ/view" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen></iframe>
+
+
+Умови прийняття в дошкільне відділення
+<iframe src="https://drive.google.com/file/d/1-oYyBRD_NoRtXOTlaAgCw0ycKmst6z_S/preview" width="640" height="480"></iframe>
