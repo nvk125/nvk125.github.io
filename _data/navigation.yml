@@ -13,22 +13,30 @@ sidebar-menu:
   - title: Наша школа
     url: /news
     children:
-      - title: "Конкурсний відбір керівника закладу"
-        url: /announcement
-      - title: "Спроможність закладу освіти. Зарахування до 1 класу"
-        url: /enrollment
-      - title: "Як нас знайти"
-        url: /contacts
-      - title: "Досягнення"
-        url: /achievements
-      - title: "Історія"
-        url: /history
+      - title: Всеукраїнська школа онлайн
+        url: /online-school
       - title: "Газета 'Шкільна орбіта'"
         url: /school-newspaper
       - title: "Дистанційне навчання"
         url: /remote
+      - title: "Досягнення"
+        url: /achievements
+      - title: "Історія"
+        url: /history
+      - title: "Конкурсний відбір керівника закладу"
+        url: /announcement
+      - title: Медична сторінка
+        url: /medical-page
       - title: "Нормативний путівник"
         url: /normative_guide
+      - title: Організація харчування
+        url: /nutrition
+      - title: "Спроможність закладу освіти. Зарахування до 1 класу"
+        url: /enrollment
+      - title: Цифрова освіта
+        url: /digital-education
+      - title: "Як нас знайти"
+        url: /contacts
 
   - title: Виховна робота
     children:
@@ -42,8 +50,6 @@ sidebar-menu:
         url: /events
       - title: Канікули
         url: /holiday
-      - title: Літній табір
-        url: /camp
       - title: Наші таланти
         url: /talents
       - title: Протидія булінгу

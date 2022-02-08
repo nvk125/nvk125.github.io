@@ -1,10 +1,9 @@
 ---
 layout: archive
 title: "Цифрова освіта"
-permalink: /camp/
+permalink: /digital-education/
 header:
-  image: assets/images/pages/camp/u3.png
+  image: assets/images/pages/digital_education/u3.png
 sidebar:
   nav: "sidebar-menu"
 ---
-
