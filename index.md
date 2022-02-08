@@ -1,7 +1,9 @@
 ---
-layout: splash
+layout: single
 title: "Офіційний сайт НВК № 125 у м. Дніпро"
 permalink: /
+sidebar:
+  nav: "sidebar-menu"
 header:
   overlay_color: "#5e616c"
   overlay_filter: 0.2
@@ -32,11 +34,11 @@ feature_row:
     url: "/ato"
     btn_class: "btn--primary"
     btn_label: "Читати"
-  - image_path: /assets/images/index/tabir.jpg
-    alt: "Літній табір Зернятко"
-    title: "Літній табір 'Зернятко'"
-    excerpt: "Літній табір 'Зернятко'"
-    url: "/camp"
+  - image_path: /assets/images/pages/digital_education/u3.png
+    alt: "Цифрова освіта"
+    title: "Цифрова освіта"
+    excerpt: "Цифрова освіта"
+    url: "/digital-education"
     btn_class: "btn--primary"
     btn_label: "Читати"
   - image_path: /assets/images/index/patriotic.jpg
@@ -59,9 +61,8 @@ intro:
   - excerpt: 'Слідкуйте за нами у соціальних мережах &nbsp; [<i class="fa fa-youtube"></i> nvk125](https://www.youtube.com/channel/UCWUxpJfzRRRTuKxtSuTN08A){: .btn .btn--danger}'
 ---
 
-## Новини
-
 <div class="home">
+  <h1>Новини</h1>
   <div class="home__facebook">
     <div
       class="fb-page"
@@ -79,8 +80,9 @@ intro:
       </blockquote>
     </div>
   </div>
-  <div class="home__pages">
-    {% include feature_row %}
-    {% include feature_row id="intro" type="center" %}
-  </div>
+</div>
+
+<div class="home__pages">
+  {% include feature_row %}
+  {% include feature_row id="intro" type="center" %}
 </div>
