@@ -61,28 +61,27 @@ intro:
   - excerpt: 'Слідкуйте за нами у соціальних мережах &nbsp; [<i class="fa fa-youtube"></i> nvk125](https://www.youtube.com/channel/UCWUxpJfzRRRTuKxtSuTN08A){: .btn .btn--danger}'
 ---
 
-<div class="home">
-  <h1>Новини</h1>
-  <div class="home__facebook">
-    <div
-      class="fb-page"
-      data-href="https://www.facebook.com/nvk125"
-      data-tabs="timeline"
-      data-width="500"
-      data-height="1024"
-      data-small-header="true"
-      data-adapt-container-width="true"
-      data-hide-cover="false"
-      data-show-facepile="false"
-    >
-      <blockquote cite="https://www.facebook.com/nvk125" class="fb-xfbml-parse-ignore">
-        <a href="https://www.facebook.com/nvk125">НВК №125</a>
-      </blockquote>
-    </div>
+# Новини
+
+<div>
+  <div
+    class="fb-page"
+    data-href="https://www.facebook.com/nvk125"
+    data-tabs="timeline"
+    data-width="500"
+    data-height="1024"
+    data-small-header="true"
+    data-adapt-container-width="true"
+    data-hide-cover="false"
+    data-show-facepile="false"
+  >
+    <blockquote cite="https://www.facebook.com/nvk125" class="fb-xfbml-parse-ignore">
+      <a href="https://www.facebook.com/nvk125">НВК №125</a>
+    </blockquote>
   </div>
 </div>
 
-<div class="home__pages">
+<div style="margin-top: 16px">
   {% include feature_row %}
   {% include feature_row id="intro" type="center" %}
 </div>
