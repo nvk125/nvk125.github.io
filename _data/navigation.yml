@@ -29,7 +29,7 @@ sidebar-menu:
         url: /announcement
       - title: "Нормативний путівник"
         url: /normative_guide
-      - title: "Спроможність закладу освіти. Зарахування до 1 класу"
+      - title: "Зарахування до 1 класу"
         url: /enrollment
       - title: Цифрова освіта
         url: /digital-education
@@ -38,16 +38,8 @@ sidebar-menu:
 
   - title: Виховна робота
     children:
-      - title: Волонтерська допомога
-        url: /volunteer
-      - title: Екскурсії
-        url: /excursions
-      - title: Заходи
-        url: /events
       - title: Канікули
         url: /holiday
-      - title: Наші таланти
-        url: /talents
       - title: Протидія булінгу
         url: /bullying
       - title: Профілактична робота

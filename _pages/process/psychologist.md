@@ -26,12 +26,20 @@ sidebar:
 
 ## Профілактична робота
 
-<a href="/process/psychologist/human-trafficking-counteracting">
-Протидія торгівлі людьми
+<a href="/process/psychologist/alcohol">
+Негативний вплив алкоголю на здоров'я людини
 </a>
 
-<a href="/process/psychologist/domestic-violence-counteracting">
-Про запобігання та протидію домашньому насильству
+<a href="/bullying">
+Протидія булінгу
+</a>
+
+<a href="/preventive_work">
+Запобігання та протидія домашньому насиллю
+</a>
+
+<a href="/process/psychologist/human-trafficking-counteracting">
+Протидія торгівлі людьми
 </a>
 
 <a href="/process/psychologist/sexual-education">

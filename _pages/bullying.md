@@ -1,10 +1,14 @@
 ---
 layout: single
+title: Протидія булінгу
 permalink: /bullying/
 sidebar:
   nav: "sidebar-menu"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M9AiNoFWexo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
 
 Алгоритм дій працівника закладу освіти
 у разі виялення випадку булінгу
