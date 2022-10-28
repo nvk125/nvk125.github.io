@@ -5,21 +5,98 @@ permalink: /process/psychologist/
 sidebar:
   nav: "sidebar-menu"
 ---
-Група фахових психологів готова надавати психологічну допомогу дорослим і дітям - у разі необхідності.
 
-<iframe src="https://drive.google.com/file/d/1z0CtmNAUmXURjs3c8TIomDJEPLqv6hIG/preview" width="640" height="480" allow="autoplay"></iframe>
+Практиний психолог
+`elena.khristiuk@gmail.com`
 
-Інформація для тих родин, що потребують педіатричної допомоги
-<iframe src="https://drive.google.com/file/d/1NZY6pNmK8ffX_ciyKx4UaJOr5j2NOYpC/preview" width="640" height="480" allow="autoplay"></iframe>
+## Клятва психолога-практика
+> Ступаючи на шлях практичної психології, я клянусь, що всі мої знання і здібності вкладу в свою непросту роботу.
 
-5 кроків допомоги - психологічні дії, направлені на те, щоб заспокоїти людину 
-<iframe src="https://drive.google.com/file/d/1yeNbEGd-mMlptiH9nW5VmwkibT6_keHv/preview" width="640" height="480" allow="autoplay"></iframe>
+> У моїх руках душа, а значить, і доля того, хто звернувся до мене за допомогою. Все, що я вмію і знаю, все, чим природа і люди обдарували мене як особистість, - для тих, хто йде до мене.
 
-Психологічна допомога дитині під час надзвичайної ситуації 
-<iframe src="https://drive.google.com/file/d/1nCRc8XRdrOd3-58g6xFo9metkxPGrAcd/preview" width="640" height="480" allow="autoplay"></iframe>
+> Я не допущу, щоб те, що я дізналась про людину, обернулося проти неї. Опановуючи професією психолога, гаряче бажаю тільки одного - бути для людей тим, кому можна довіритися.
 
+> І я не зганьблю свою професію некомпетентністю, некваліфікованістю, непорядністю, байдужістю і корисливістю.
+
+> І нехай удача супроводжує мене в моєму щирому прагненні збудити і розвинути дар у дитині, допомогти їй у важкі хвилини його поступового дорослішання, прийняти, цінувати і берегти загадку його неповторної індивідуальності.
+
+<a href="/process/psychologist/mon">
+Лист МОН Щодо діяльності психологічної служби у системі освіти в 2022/2023 навчальному році
+</a>
+
+## Профілактична робота
+
+<a href="/process/psychologist/human-trafficking-counteracting">
+Протидія торгівлі людьми
+</a>
+
+<a href="/process/psychologist/domestic-violence-counteracting">
+Про запобігання та протидію домашньому насильству
+</a>
+
+<a href="/process/psychologist/sexual-education">
+Сексуальна освіта
+</a>
+
+## Дистанційне навчання
+
+<a href="/process/psychologist/remote">
+Дистанційне навчання. Правила та поради
+</a>
+
+## Психологічний супровід в умовах надзвичайної ситуації
+
+<a href="/process/psychologist/exercises">
+Вправи для зняття стресу та емоційної напруги
+</a>
+
+<a href="/process/psychologist/guide">
+Психологічний супровід в умовах надзвичайної ситуації
+</a>
+
+<a href="/process/psychologist/undercover-games">
+Ідеї ​​для ігор, у які можна грати в укритті.
+</a>
+
+<a href="/process/psychologist/stress-help">
+Панічна атака, істерика, страх: прийоми першої психологічної допомоги
+</a>
+
+<a href="/process/psychologist/child-stress-help">
+Як допомогти дітям під час стресу
+</a>
+
+<a href="/process/psychologist/father-guides">
+Рекомендації для татів, які через війну розлучені з родиною.
+</a>
+
+<a href="/process/psychologist/occupied-teritorries">
+Що робити, якщо ваші близькі опинилися на тимчасово окупованих територіях?
+</a>
+
+<a href="/process/psychologist/5-steps">
+5 кроків допомоги - психологічні дії, направлені на те, щоб заспокоїти людину
+</a>
+
+<a href="/process/psychologist/10-commandments">
+Десять заповідей для мами і тата майбутнього першокласника
+</a>
+
+<a href="/process/psychologist/child-help">
+Психологічна допомога дитині під час надзвичайної ситуації
+</a>
+
+<a href="/process/psychologist/games">
 Набір ігор - для спокійного спілкування з усією родиною
-<iframe src="https://drive.google.com/file/d/11pSx-gaZWmWLvMDBaUmS_4663hOFsX6r/preview" width="640" height="480" allow="autoplay"></iframe>
+</a>
+
+<a href="/process/psychologist/info">
+Інформація для тих родин, що потребують педіатричної допомоги
+</a>
+
+<a href="/process/psychologist/help">
+Група фахових психологів готова надавати психологічну допомогу дорослим і дітям - у разі необхідності.
+</a>
 
 
 <div class="grid__wrapper">

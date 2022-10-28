@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Сторінка психолога"
+    url: /process/psychologist
   - title: "Новини"
     url: /news
   - title: "Розклад"
@@ -25,12 +27,8 @@ sidebar-menu:
         url: /history
       - title: "Конкурсний відбір керівника закладу"
         url: /announcement
-      - title: Медична сторінка
-        url: /medical-page
       - title: "Нормативний путівник"
         url: /normative_guide
-      - title: Організація харчування
-        url: /nutrition
       - title: "Спроможність закладу освіти. Зарахування до 1 класу"
         url: /enrollment
       - title: Цифрова освіта
@@ -40,8 +38,6 @@ sidebar-menu:
 
   - title: Виховна робота
     children:
-      - title: Акції
-        url: /contests
       - title: Волонтерська допомога
         url: /volunteer
       - title: Екскурсії
