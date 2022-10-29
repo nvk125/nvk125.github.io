@@ -38,6 +38,8 @@ sidebar-menu:
 
   - title: Виховна робота
     children:
+      - title: Річний звіт 2021 - 2022
+        url: /report-2022
       - title: Канікули
         url: /holiday
       - title: Протидія булінгу
