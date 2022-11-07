@@ -15,7 +15,7 @@ sidebar:
 7. [Довідка з єдиного державного реєстру підприємств](/open/state-certificate/)
 8. [Ліцензія/Свідоцтво про атестацію](/open/attestation-certificate/)
 9. [Структура та органи управління закладом](/open/management-structure/)
-10. [Адміністрація закладу](/open/administration/)
+<!-- 10. [Адміністрація закладу](/open/administration/) -->
 11. [Графік чергування](/open/schedule/)
 12. [Наші вчителі](/open/teachers/)
 13. [Навчальні програми](/open/programs/)
