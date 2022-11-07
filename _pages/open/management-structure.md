@@ -7,8 +7,8 @@ sidebar:
 ---
 
 ### Загальні відомості про навчальний заклад
-<iframe src="https://drive.google.com/file/d/1fPHqWX438pd5RnyGpWJ9LvRlDJPzyMwJ/preview" width="640" height="480"></iframe>
-                  
+<iframe src="https://drive.google.com/file/d/1MaAPgAuHaZoLr0-HRrh_IsKby-A-otcZeEfA2c3Y43Q/preview" width="640" height="480"></iframe>
+
 
 Управління навчальним закладом здійснюється департаментом гуманітарної
 політики Дніпровської міської ради, який є представником власника.
