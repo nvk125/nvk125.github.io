@@ -74,21 +74,27 @@ dnz-menu:
     children:
       - title: Загальна інформація
         url: /dnz/info
+      - title: Медична робота
+        url: /dnz/med
+      - title: Національно-патріотичне виховання
+        url: /dnz/patriotic
+      - title: Організаційно-розвивальне середовище
+        url: /dnz/development
+      - title: Поради психолога
+        url: /dnz/psychologist
       - title: Умови прийняття
         url: /dnz/rules
-      - title: Працівники
-        url: /dnz/workers
+      - title: Звіт
+        url: /dnz/report
       - title: Організація харчування
         url: /dnz/meal
+      - title: Цивільний захист
+        url: /dnz/defense
       - title: Оздоровчо-розвивальне середовище
         url: /dnz/health
       - title: Сторінка музичного керівника
         url: /dnz/music
       - title: Батьківська сторінка
         url: /dnz/parents
-      - title: Медична сторінка
-        url: /dnz/med
       - title: Електронна реєстрація
         url: /dnz/registration
-      - title: Фінансові звіти
-        url: /dnz/finance
