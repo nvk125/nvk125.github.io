@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Патріотичне виховання"
-permalink: /patriotic/
+permalink: /patriotic
 sidebar:
   nav: "sidebar-menu"
 ---

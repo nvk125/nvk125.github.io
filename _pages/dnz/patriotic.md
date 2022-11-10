@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Національно-патріотичне виховання"
-permalink: /dnz/patriotic/
+permalink: /dnz/patriotic
 sidebar:
   nav: "dnz-menu"
 ---
