@@ -11,7 +11,7 @@ header:
   cta_label: "<i class='fa fa-info-circle'></i> Про нас"
   cta_url: "/contacts"
   caption:
-excerpt: 'Комунальний заклад освіти «Навчально-виховний комплекс №125 «загальноосвітній навчальний заклад — дошкільний навчальний заклад» Дніпровської міської ради'
+excerpt: 'Дніпровської міської ради'
 feature_row:
   - image_path: /assets/images/index/memory.jpg
     alt: "Пам'ятаємо! Перемагаємо!"

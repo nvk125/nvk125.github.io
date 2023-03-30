@@ -6,7 +6,7 @@ sidebar:
   nav: "sidebar-menu"
 ---
 
-## Комунальний заклад освіти «Навчально-виховний комплекс № 125 “загальноосвітній навчальний заклад — дошкільний навчальний заклад” Дніпровської міської ради
+## Дніпровська Гімназія №125 Дніпровської міської ради
 
 <div class="google-maps">
   <iframe onClick="style.pointerEvents='none'" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2644.141792841288!2d35.1510314412087!3d48.4921729753093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d9579225fa6f77%3A0x9bdf7cd58ff9cea!2z0LLRg9C70LjRhtGPINCQ0LPRgNCw0YDQvdCwLCAxLCDQlNC90ZbQv9GA0L7MgSwg0JTQvdGW0L_RgNC-0L_QtdGC0YDQvtCy0YHRjNC60LAg0L7QsdC70LDRgdGC0YwsINCj0LrRgNCw0LjQvdCw!5e0!3m2!1sru!2sru!4v1501436516119" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
