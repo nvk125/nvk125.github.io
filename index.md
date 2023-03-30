@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Офіційний сайт НВК № 125 у м. Дніпро"
+title: "Дніпровська Гімназія №125 Дніпровської міської ради"
 permalink: /
 sidebar:
   nav: "sidebar-menu"
