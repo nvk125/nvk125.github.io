@@ -8,7 +8,7 @@ sidebar:
 
 <ul>
   {% assign pages = site.pages | reverse %}
-  {% for page in pages | reverse %}
+  {% for page in pages %}
     {% if page.categories contains "Канікули" %}
       <li><a href="{{ page.url }}">{{ page.title }}</a></li>
     {% endif %}

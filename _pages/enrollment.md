@@ -1,13 +1,19 @@
 ---
 layout: single
+title: "Шановні батьки майбутніх першачків!!!"
 permalink: /enrollment/
 sidebar:
   nav: "sidebar-menu"
 ---
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 85.0847%;"><iframe src="https://drive.google.com/file/d/1p-nv3eG5IaHRIiZNcl9hp63_QF7tPkWD/preview" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen></iframe></div>
+Дніпровська гімназія №125 продовжує набір учнів до 1 класу.
 
-Прийом документів для зарахування дітей до першого класу на 2021-2022 н.р. здійснюється шляхом електронної реєстрації.
+Заяву можна подати за адресою: вул.Аграрна, 1.
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 85.0847%;"><iframe src="https://drive.google.com/file/d/1CWDRgfbM-uRIi-C0DAbcyJdnVx0kBKLm/preview" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen></iframe></div>
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 85.0847%;"><iframe src="https://drive.google.com/file/d/1AL3CqapuIlWs0T5j5wyvs7DAtqniQUVK/preview" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen></iframe></div>
+Понеділок - п'ятниця з 9.00 до 16.00.
+
+З собою мати паспорт, свідоцтво про народження дитини, документ, що підтверджує соціальний пільговий статус, бажано мати медичну довідку ф.086-1/о.
+
+Додаткова електронна реєстрація:
+
+<a href="https://school.isuo.org"><img src="https://school.isuo.org/themes/h2o/files/theme/logo.png" /></a>
