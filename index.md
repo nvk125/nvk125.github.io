@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Дніпровська Гімназія №125 Дніпровської міської ради"
+title: "Дніпровська Гімназія №125"
 permalink: /
 sidebar:
   nav: "sidebar-menu"
