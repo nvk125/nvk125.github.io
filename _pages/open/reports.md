@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Звіт директора КЗО НВК № 125 ДМР"
+title: "Звіт директора КЗО СЗШ № 125 ДМР"
 permalink: open/report/
 sidebar:
   nav: "sidebar-menu"

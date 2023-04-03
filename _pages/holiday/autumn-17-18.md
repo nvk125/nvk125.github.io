@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /holiday-autumn-17-18
-title: "План заходів НВК № 125"
+title: "План заходів СЗШ № 125"
 sidebar:
   nav: "sidebar-menu"
 categories:

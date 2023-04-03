@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Приміщення ЗДО НВК"
+title: "Приміщення ЗДО СЗШ"
 permalink: /open/provision/zdo/
 sidebar:
   nav: "sidebar-menu"

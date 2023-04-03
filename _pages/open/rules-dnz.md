@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Правила прийому вихованців до ЗДО НВК"
+title: "Правила прийому вихованців до ЗДО СЗШ"
 permalink: /open/rules-dnz/
 sidebar:
   nav: "sidebar-menu"
