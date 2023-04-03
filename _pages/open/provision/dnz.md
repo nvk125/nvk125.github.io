@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Приміщення ЗДО СЗШ"
+title: "Приміщення ЗДО Гімназія"
 permalink: /open/provision/zdo/
 sidebar:
   nav: "sidebar-menu"

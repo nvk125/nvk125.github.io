@@ -76,7 +76,7 @@ intro:
     data-show-facepile="false"
   >
     <blockquote cite="https://www.facebook.com/nvk125" class="fb-xfbml-parse-ignore">
-      <a href="https://www.facebook.com/nvk125">СЗШ №125</a>
+      <a href="https://www.facebook.com/nvk125">Гімназія №125</a>
     </blockquote>
   </div>
 </div>

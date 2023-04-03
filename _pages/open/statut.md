@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Статут КЗО СЗШ №125 ДМР"
+title: "Статут КЗО Гімназія №125 ДМР"
 permalink: /open/statut/
 sidebar:
   nav: "sidebar-menu"

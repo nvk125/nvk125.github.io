@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ua"
-logo_name                : "СЗШ 125"
+logo_name                : "Гімназія 125"
 title                    : "Дніпровська Гімназія №125 Дніпровської міської ради"
 title_separator          : "-"
 name                     : "Дніпровська Гімназія №125 Дніпровської міської ради"
@@ -93,7 +93,7 @@ analytics:
 author:
   name             : "Христюк Олена Георгіївна"
   avatar           : "/assets/images/director.jpg"
-  bio              : "Директор СЗШ №125"
+  bio              : "Директор Гімназія №125"
   location         : "м. Дніпро"
   email            : "nvk125@dnepredu.dp.ua"
   uri              :
