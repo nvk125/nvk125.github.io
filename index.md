@@ -64,6 +64,12 @@ intro:
 # Новини
 
 <div>
+  <a href="/mriya">
+    <img src="/assets/images/index/mriya.png" style="border-radius: 16px" />
+  </a>
+</div>
+
+<div>
   <div
     class="fb-page"
     data-href="https://www.facebook.com/nvk125"
