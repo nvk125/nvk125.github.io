@@ -13,13 +13,9 @@ sidebar:
 
 <iframe src="https://drive.google.com/file/d/1QTTZac2XMR5bbPJVTBcIfFLcq4VdJtPn/preview" width="640" height="480"></iframe>
 
-### ВИБІР ПІДРУЧНИКІВ ДЛЯ 5 КЛАСУ
+### ВИБІР ПІДРУЧНИКІВ ДЛЯ 5-6 КЛАСУ
 
 <iframe src="https://drive.google.com/file/d/1yvi6AOwGZGf9D4Pqwmh-zGrPx-m5a9fs/preview" width="640" height="480"></iframe>
-
-### ВИБІР ПІДРУЧНИКІВ ДЛЯ 6 КЛАСУ
-
-<iframe src="https://drive.google.com/file/d/1BP2m-AqO15hKkIPWzVbVYQKiwRoW2nWP/preview" width="640" height="480"></iframe>
 
 ### ВИБІР ПІДРУЧНИКІВ ДЛЯ 8 КЛАСУ
 
