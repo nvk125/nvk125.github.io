@@ -71,6 +71,14 @@ sidebar:
 
 ## Психологічний супровід в умовах надзвичайної ситуації
 
+<a href="/process/psychologist/1grade-parents-recommendations">
+Для батьків першокласників
+</a>
+
+<a href="/process/psychologist/5grade-parents-recommendations">
+Рекомендації психолога батькам п’ятикласників
+</a>
+
 <a href="/process/psychologist/exercises">
 Вправи для зняття стресу та емоційної напруги
 </a>

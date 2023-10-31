@@ -74,6 +74,8 @@ dnz-menu:
     children:
       - title: Загальна інформація
         url: /dnz/info
+      - title: Підтримка дошкільнят
+        url: /dnz/підтримка+дошкільнят
       - title: Медична робота
         url: /dnz/med
       - title: Національно-патріотичне виховання
