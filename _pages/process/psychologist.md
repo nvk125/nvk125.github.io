@@ -6,7 +6,7 @@ sidebar:
   nav: "sidebar-menu"
 ---
 
-## Практиний психолог
+## Практичний психолог
 `elena.khristiuk@gmail.com`
 
 ## Ла Страда Україна
