@@ -9,6 +9,10 @@ sidebar:
 
 <iframe src="https://drive.google.com/file/d/12nzvyg96O7MVApzR7QZDTHuNOR9OhQsx/preview" width="640" height="480"></iframe>
 
+### ВИБІР ПІДРУЧНИКІВ ДЛЯ 2 КЛАСУ
+
+<iframe src="https://drive.google.com/file/d/1PO07XrX2YJ9N-qDTWs-i62x2uBwGFKcV/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ### ВИБІР ПІДРУЧНИКІВ ДЛЯ 4 КЛАСУ
 
 <iframe src="https://drive.google.com/file/d/1QTTZac2XMR5bbPJVTBcIfFLcq4VdJtPn/preview" width="640" height="480"></iframe>
