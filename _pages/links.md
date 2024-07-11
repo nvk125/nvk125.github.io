@@ -17,4 +17,4 @@ gallery:
 - [https://nenc.gov.ua/](https://nenc.gov.ua/)
 - [http://www.dxdigitals.info/2013/08/elektronni-shkilni-pidruchniki-Ukraina.html](http://www.dxdigitals.info/2013/08/elektronni-shkilni-pidruchniki-Ukraina.html)
 
-{% include gallery caption="Реклама" %}
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 85.0847%;"><iframe src="https://drive.google.com/file/d/1ZkFbeSQQvz1m9bGmzTrEm2kD4VvNHxgg/preview" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen></iframe></div>
