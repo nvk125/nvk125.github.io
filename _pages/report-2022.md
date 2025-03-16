@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "2021-2022 Річний звіт про проведену виховну роботу"
-permalink: /report-2022/
+title: "Річний звіт про проведену виховну роботу"
+permalink: /yearly-report/
 sidebar:
   nav: "sidebar-menu"
 ---
