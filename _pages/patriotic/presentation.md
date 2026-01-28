@@ -8,16 +8,16 @@ sidebar:
 
 {% include toc title="Зміст" icon="file-text" %}
 
-## Наказ
+<!--## Наказ
 
-<iframe src="https://drive.google.com/file/d/1MW4RiK-uiItKe-AOg-LTH-CBPCsDDIpw/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1MW4RiK-uiItKe-AOg-LTH-CBPCsDDIpw/preview" width="640" height="480"></iframe>-->
 
 
 ## План штабу національно-патріотичного виховання 
 <iframe src="https://drive.google.com/file/d/1APYuY1cZJYuT6quA31kGb489ujqt97lI/preview" width="640" height="480"></iframe>
 
 
-## Презентації
+<!--## Презентації
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 85.0847%;"><iframe src="https://www.slideshare.net/slideshow/embed_code/key/LgEn44bH86FXGv" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen></iframe></div>
 
@@ -34,4 +34,4 @@ sidebar:
       {% include archive-single.html type="grid" %}
     {% endif %}
   {% endfor %}
-</div>
+</div>-->
