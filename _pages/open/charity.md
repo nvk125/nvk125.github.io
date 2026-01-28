@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Благодійна допомога 2023-2024"
+title: "Благодійна допомога"
 permalink: /open/charity/
 sidebar:
   nav: "sidebar-menu"
