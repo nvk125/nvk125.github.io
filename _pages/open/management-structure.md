@@ -6,8 +6,10 @@ sidebar:
   nav: "sidebar-menu"
 ---
 
+
 ### Загальні відомості про навчальний заклад
-<iframe src="https://drive.google.com/file/d/1MaAPgAuHaZoLr0-HRrh_IsKby-A-otcZeEfA2c3Y43Q/preview" width="640" height="480"></iframe>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 85.0847%;"><iframe src="https://drive.google.com/file/d/1fPHqWX438pd5RnyGpWJ9LvRlDJPzyMwJ/preview" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen></iframe></div>
+
 
 
 Управління навчальним закладом здійснюється департаментом гуманітарної
